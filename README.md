@@ -20,7 +20,7 @@
 #
 
 ### Dawn
-* Raised $18M
+* Raised $46M 🤗
 * Install [Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
 * Create account with Email and verify your Email
 * Invite Code: `l06imm20`
