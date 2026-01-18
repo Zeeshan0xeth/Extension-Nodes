@@ -5,6 +5,12 @@
 
 #
 
+### DATA HIVE AI 
+* raised $3m
+* backed by solana venture and more
+* register [here](https://datahive.ai?invite=77rf3cq)
+* you can download it by playstore
+
 ### Openledger
 * Register [Dashboard](https://testnet.openledger.xyz)
 * Download [Extension](https://chromewebstore.google.com/detail/openledger-node/ekbbplmjjgoobhdlffmgeokalelnmjjc)
